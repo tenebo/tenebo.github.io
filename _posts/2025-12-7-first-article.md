@@ -2,7 +2,7 @@
 layout: article
 title: "First Article"
 description: "First Article"
-tags: Thoughts
+tags: "Thoughts"
 ---
 # First Article
 

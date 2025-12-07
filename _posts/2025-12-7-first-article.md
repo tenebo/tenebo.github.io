@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "First Article"
 description: "First Article"
 tags: "Thoughts"

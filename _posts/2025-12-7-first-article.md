@@ -1,9 +1,8 @@
 ---
 layout: article
 title: "First Article"
-description: ""
-tags: thoughts
-mathjax: true
+description: "First Article"
+tags: Thoughts
 ---
 # First Article
 
